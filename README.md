@@ -1,6 +1,7 @@
 # Ariyana
 
 Ariyana Game Engine
+![Discord](https://img.shields.io/discord/735697158099173399?color=%236C7FC9&label=%20&logo=discord&logoColor=%23ffffff)
 
 ## Features
 
